@@ -1,0 +1,2 @@
+Binary to Decimal: 11011 -> 27
+Arithmetic: 45 / 15 = 3
